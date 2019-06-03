@@ -1,0 +1,6 @@
+framework module Pods_PokemonFinderTests {
+  umbrella header "Pods-PokemonFinderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

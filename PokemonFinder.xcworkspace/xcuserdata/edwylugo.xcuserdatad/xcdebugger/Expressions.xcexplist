@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:numberOfRowsInSection:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "typeSelect">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.resultsTypes.getter:HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ListTypesViewController.tableView(_:didDeselectRowAt:):ListTypesViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "APIManager.init():APIManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.getJsonFromUrlPokemons():HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ListTypesViewController.tableView(_:didSelectRowAt:):ListTypesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "testValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
